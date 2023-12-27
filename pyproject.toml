@@ -1,8 +1,8 @@
 [tool.poetry]
 name = "stockalgoagent"
 version = "0.0.1"
-description = "Ceeating an AI agent to predict the stock price trend as per the stock history and using maket indicators"
-authors = ["Bhavik Pawar <bhavikdeepawar007@gmail.com>"]
+description = "Ceeating an AI agent to predict the stock price trend as per the stock history and using maket indicators, using fetch.ai's uAgents."
+authors = ["Bhavik Pawar <bhavikdeepawar007@gmail.com>", "Sarthak Pawar<sarthakp8074@gmail.com>", "Prathamesh Bhamare<prathameshbhamare647@gmail.com>"]
 readme = "README.md"
 
 [tool.poetry.dependencies]
