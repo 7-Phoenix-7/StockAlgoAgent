@@ -1,0 +1,14 @@
+[tool.poetry]
+name = "stockalgoagent"
+version = "0.0.1"
+description = "Ceeating an AI agent to predict the stock price trend as per the stock history and using maket indicators"
+authors = ["Bhavik Pawar <bhavikdeepawar007@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.12"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
